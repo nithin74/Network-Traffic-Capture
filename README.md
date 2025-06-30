@@ -40,7 +40,7 @@ Understood how to use Wireshark to monitor real-time traffic.
 Learned to apply protocol filters (e.g., http, dns, tcp) for better analysis.
 Observed differences in how various protocols behave on the network.
 # 🧪 Sample Filters Used
-http
-dns
-tcp
-icmp
+ http
+ dns
+ tcp
+ icmp
